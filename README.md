@@ -6,7 +6,7 @@ This project is a Java-based web application built using Spring Boot. It demonst
 
 ## 🛠️ Technologies Used
 
-- **Java:** 8
+- **Java:** 17
 - **Spring Boot:** 2.1.9.RELEASE
 - **Maven:** Build and dependency management
 - **Spring MVC:** Web request handling
